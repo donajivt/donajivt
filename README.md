@@ -89,12 +89,12 @@ Universidad Tecnológica de Tula-Tepeji
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=donajivt&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donajivt&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=donajivt&show_icons=true&theme=visual_studio_code&title_color=9B6CAD&icon_color=9B6CAD&text_color=ffffff&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donajivt&layout=compact&theme=visual_studio_code&title_color=9B6CAD&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=donajivt&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=donajivt&theme=tokyonight&ring=9B6CAD&fire=9B6CAD" />
 </p>
 
 ---

@@ -1,26 +1,46 @@
-<h1 align="center">Hi, I'm Donaji Torres ✨</h1>
+<p align="center">
+  <img src="TU_FOTO.png" width="180" style="border-radius:50%" />
+</p>
+
+<h1 align="center">Donaji Torres ✨</h1>
 
 <h3 align="center">
-Software Developer focused on Web, Mobile & Microservices
+Software Developer | Web • Mobile • Microservices
 </h3>
 
 <p align="center">
-Building scalable applications with modern technologies 💻
+Passionate about building scalable applications and modern digital experiences.
 </p>
 
 ---
 
-## 👩🏻‍💻 About Me
+# 👩🏻‍💻 Profile
 
-- 💻 Frontend developer with React & JavaScript
-- 📱 Mobile developer with Kotlin & Swift
-- ⚙️ Backend developer with ASP.NET Core
-- 🧠 Interested in software architecture and scalable systems
-- ☁️ Passionate about microservices and cloud technologies
+Software Developer with experience in frontend, backend and mobile development. Focused on building scalable applications using modern technologies such as React, ASP.NET Core, Kotlin and Swift. Interested in software architecture, microservices and cloud technologies.
 
 ---
 
-## 🚀 Technologies & Tools
+# 💼 Experience
+
+## 🌸 Software Developer — Livefree Software
+
+- Development of frontend applications with React and JavaScript
+- Participation in frontend and backend software architecture
+- Development and maintenance of backend services with ASP.NET Core
+- REST API integration and microservices consumption
+
+---
+
+## 🌸 Software Developer — PIXIR S.A de C.V
+
+- Development of mobile applications using Swift and UIKit
+- Implementation of MVVM architecture
+- Consumption of REST APIs and microservices
+- Collaboration in backend module development with ASP.NET
+
+---
+
+# 🚀 Technologies
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -43,7 +63,7 @@ Building scalable applications with modern technologies 💻
 # 📌 Featured Projects
 
 ## 📱 SmartBand
-Mobile application developed in Kotlin to monitor environmental temperature and heart rate in real time through BLE communication.
+BLE mobile application developed in Kotlin for real-time environmental temperature and BPM monitoring.
 
 ## 🛒 Microservices
 Microservices developed with ASP.NET implementing JWT authentication and role-based authorization.
@@ -53,6 +73,16 @@ Mobile application based on microservices for travelers and photography enthusia
 
 ## 🏫 LiveFreeSchools
 School management platform with microservices architecture and REST APIs.
+
+---
+
+# 📚 Education
+
+🎓 Software Development and Management Engineering  
+Universidad Tecnológica de Tula-Tepeji
+
+🎓 Multiplatform Software Development Technician  
+Universidad Tecnológica de Tula-Tepeji
 
 ---
 
@@ -71,4 +101,5 @@ School management platform with microservices architecture and REST APIs.
 # 📫 Contact
 
 - 📧 vaniadonajitorres@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/donaji-torres](https://www.linkedin.com/in/donaji-torres-683587343/)
+- 💼 LinkedIn: linkedin.com/in/donaji-torres
+- 📱 +52 55 XXXX XXXX

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TU_FOTO.png" width="180" style="border-radius:50%" />
+  <img src="DSC04365.JPG" width="180" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Donaji Torres ✨</h1>

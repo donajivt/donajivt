@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Donaji Torres</h1>
+<h1 align="center">Hi, I'm Donaji Torres ✨</h1>
 
 <h3 align="center">
-Software Developer focused on Web, Mobile and Microservices
+Software Developer focused on Web, Mobile & Microservices
 </h3>
+
+<p align="center">
+Building scalable applications with modern technologies 💻
+</p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-- 💻 Frontend developer with React
+- 💻 Frontend developer with React & JavaScript
 - 📱 Mobile developer with Kotlin & Swift
-- ⚙️ Backend developer with ASP.NET Core & Go
+- ⚙️ Backend developer with ASP.NET Core
 - 🧠 Interested in software architecture and scalable systems
-- 🚀 Passionate about microservices and cloud technologies
+- ☁️ Passionate about microservices and cloud technologies
 
 ---
 
@@ -20,6 +24,7 @@ Software Developer focused on Web, Mobile and Microservices
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 
 ### Backend
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet)
@@ -40,8 +45,8 @@ Software Developer focused on Web, Mobile and Microservices
 ## 📱 SmartBand
 Mobile application developed in Kotlin to monitor environmental temperature and heart rate in real time through BLE communication.
 
-## 🛒 MicroservicioProductoGo
-Microservice developed with Go and Gin implementing JWT authentication and role-based authorization.
+## 🛒 Microservices
+Microservices developed with ASP.NET implementing JWT authentication and role-based authorization.
 
 ## 🌎 ExploriFy
 Mobile application based on microservices for travelers and photography enthusiasts.
@@ -54,11 +59,11 @@ School management platform with microservices architecture and REST APIs.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -66,4 +71,4 @@ School management platform with microservices architecture and REST APIs.
 # 📫 Contact
 
 - 📧 vaniadonajitorres@gmail.com
-- 💼 phone: +52 551 754 2719
+- 💼 LinkedIn: [linkedin.com/in/donaji-torres](https://www.linkedin.com/in/donaji-torres-683587343/)
